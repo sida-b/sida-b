@@ -11,7 +11,7 @@ Hi! I'm a business graduate with a major in finance and minor in marketing. I ha
 
 ## 📁 Projects
 - Investment Dashboard (Excel)
-- Store Dashboard (Power BI)
+- Restaurant Dashboard (Power BI)
 - Customer Insight Analysis (Python)
 
 
