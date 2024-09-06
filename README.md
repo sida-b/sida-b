@@ -10,7 +10,7 @@ Hi! I'm a business graduate with a major in finance and minor in marketing. I ha
 - R
 
 ## 📁 Projects
-- [Investment Dashboard (Excel)](https://github.com/sida-b/investment-dashboard)
+- [Investment Dashboard (Excel, Power Pivot)](https://github.com/sida-b/investment-dashboard)
 - [Restaurant Dashboard (Power BI)](https://github.com/sida-b/restaurant-dashboard)
 - [Email Marketing Analysis (Python)](https://github.com/sida-b/email-marketing-analysis/)
 
