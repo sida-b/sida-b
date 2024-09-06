@@ -1,12 +1,13 @@
 # Hi, I'm Sida 👋
 
-Hi! I'm a business graduate with a major in finance and minor in marketing. I have a passion for data and I am honing my skills in this field. 
+Hi! I'm a business graduate with a major in finance and minor in marketing. I have a passion for data and I am working on enhancing my skills in this field. 
 
 ## 🙋‍♀️ My Skills
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly)
 - Power BI (DAX, Power Query)
-- R
 - Excel (Pivot Tables, Power Pivot, VLOOKUP)
+- SQL
+- R
 
 ## 📁 Projects
 - Investment Dashboard (Excel)
