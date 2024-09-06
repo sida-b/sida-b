@@ -10,10 +10,9 @@ Hi! I'm a business graduate with a major in finance and minor in marketing. I ha
 - R
 
 ## 📁 Projects
-- Investment Dashboard (Excel)
-- Restaurant Dashboard (Power BI)
-- Customer Insight Analysis (Python)
-
+- [Investment Dashboard (Excel)](https://github.com/sida-b/investment-dashboard)
+- [Restaurant Dashboard (Power BI)](https://github.com/sida-b/restaurant-dashboard)
+- [Email Marketing Analysis (Python)](https://github.com/sida-b/email-marketing-analysis/)
 
 <!--
 **sida-b/sida-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
