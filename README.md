@@ -6,7 +6,7 @@ Hi! I'm a business graduate with a major in finance and minor in marketing. I ha
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly)
 - Power BI (DAX, Power Query)
 - R
-- Excel
+- Excel (Pivot Tables, Power Pivot, VLOOKUP)
 
 ## 📁 Projects
 - Investment Dashboard (Excel)
